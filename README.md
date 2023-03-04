@@ -13,7 +13,6 @@ The scheduler will be written in [Go](https://go.dev/) (a skeleton main.go is in
 
 ## Steps
 
-<<<<<<< HEAD
 1. Clone down the example input/output and skeleton main.go:
 
    1. `git clone https://github.com/jh125486/CSCE4600`
@@ -57,4 +56,3 @@ A GitHub link to your project which includes:
 =======
 You can't take an operating systems class without programming a process scheduler.  It's against the Geneva code or something.
 Design a program that implements several different CPU scheduling algorithms.
->>>>>>> 6cb05d08407f9955742bf19dbcce1842bedcc443
